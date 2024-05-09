@@ -2684,3 +2684,7 @@ a.close-styler {
     height: 250px; } }
 
 /* Custom, iPhone Retina */
+
+.service-content img{
+  aspect-ratio: 2 / 1.3;
+}
